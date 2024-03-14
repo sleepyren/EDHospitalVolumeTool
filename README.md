@@ -1,4 +1,4 @@
-# State of California ED Hospital Database Tool
+# State of California ED Hospital Volume Database Tool
 # built with REACT and alaSQL to perform SQL queries
 
 
