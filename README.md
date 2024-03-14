@@ -1,8 +1,5 @@
-# React + Vite
+# State of California ED Hospital Database Tool
+# built with REACT and alaSQL to perform SQL queries
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It uses data from the State of California's Department of Health Care Access and Analytics Branch. The data can be found here: https://catalog.data.gov/dataset/emergency-department-volume-and-capacity The data is then parsed using the alaSQL package. This package also functions as a database in the browser (cool right).      So that the tool can perform specific queries based on the user's inputs.
