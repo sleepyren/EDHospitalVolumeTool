@@ -7,6 +7,6 @@ It uses data from the State of California's Department of Health Care Access and
 There is not server side to this. REACT is client side, and so is the SQL app. 
 Anyone can easily download and try it out!
 
-![Demo1](assets/itemsearch.gif)
+![Demo1](src/assets/itemsearch.gif)
 
-![Demo2](assets/namesearch.gif)
+![Demo2](src/assets/namesearch.gif)
