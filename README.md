@@ -1,11 +1,9 @@
-# State of California ED Hospital Volume Database Tool
-# built with REACT and alaSQL to perform SQL queries
+# California Emergency Department Hospital Volume Database Application
+# Developed using REACT and alaSQL for SQL query execution
 
+This tool utilizes data provided by the Department of Health Care Access and Analytics Branch of the State of California. You can access the data at this link: https://catalog.data.gov/dataset/emergency-department-volume-and-capacity. The data is processed using the alaSQL package, which serves as a database within the browser. This allows the tool to execute particular SQL queries in response to the inputs from the user.
 
-It uses data from the State of California's Department of Health Care Access and Analytics Branch. The data can be found here: https://catalog.data.gov/dataset/emergency-department-volume-and-capacity The data is then parsed using the alaSQL package. This package also functions as a database in the browser (cool right).      So that the tool can perform specific queries based on the user's inputs.
-
-There is not server side to this. REACT is client side, and so is the SQL app. 
-Anyone can easily download and try it out!
+This is entirely client-side; both the REACT and the SQL application operate on the client side. It's straightforward for anyone to download and experiment with!
 
 ![Demo1](src/assets/itemsearch.gif)
 
